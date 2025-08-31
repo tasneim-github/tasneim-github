@@ -9,11 +9,6 @@ I’m actively seeking opportunities to grow, collaborate, and apply what I’m 
 
 As a Muslim, I find inspiration in the value Islam places on seeking knowledge and using it for the benefit of others. That belief continues to guide my learning journey — encouraging me to grow not just as a developer, but as someone committed to meaningful impact.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-
 ## My Skills 🧠
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -24,9 +19,12 @@ As a Muslim, I find inspiration in the value Islam places on seeking knowledge a
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+- 🌱 Currently learning: **[Basics of Computer Science]**
+- 🌍 Languages: **[Arabic, English & Japanese]**
+
 ## Get in Touch 📬
 
-- **[LinkedIn]**www.linkedin.com/in/tasneim-ahmed-14b492323
+- **[www.linkedin.com/in/tasneim-ahmed-14b492323]**
 <!--
 **tasneim-github/tasneim-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
