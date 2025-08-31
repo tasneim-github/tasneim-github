@@ -9,6 +9,9 @@ I’m actively seeking opportunities to grow, collaborate, and apply what I’m 
 
 As a Muslim, I find inspiration in the value Islam places on seeking knowledge and using it for the benefit of others. That belief continues to guide my learning journey — encouraging me to grow not just as a developer, but as someone committed to meaningful impact.
 
+- 🌱 Currently learning: **Basics of Computer Science**
+- 🌍 Languages: **Arabic, English & Japanese**
+
 ## My Skills 🧠
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -18,9 +21,6 @@ As a Muslim, I find inspiration in the value Islam places on seeking knowledge a
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-- 🌱 Currently learning: **Basics of Computer Science**
-- 🌍 Languages: **Arabic, English & Japanese**
 
 ## Get in Touch 📬
 
