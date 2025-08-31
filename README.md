@@ -19,12 +19,12 @@ As a Muslim, I find inspiration in the value Islam places on seeking knowledge a
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 🌱 Currently learning: **[Basics of Computer Science]**
-- 🌍 Languages: **[Arabic, English & Japanese]**
+- 🌱 Currently learning: **Basics of Computer Science**
+- 🌍 Languages: **Arabic, English & Japanese**
 
 ## Get in Touch 📬
 
-- **[www.linkedin.com/in/tasneim-ahmed-14b492323]**
+- **www.linkedin.com/in/tasneim-ahmed-14b492323**
 <!--
 **tasneim-github/tasneim-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
